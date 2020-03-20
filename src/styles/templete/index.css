@@ -4,9 +4,10 @@
 
 /**atoms**/
 @import "../atoms/nav/imagens.css";
+@import "../atoms/nav/atomlink.css";
 
 /**molecules**/
-@import "../molecules/";
+@import "../molecules/linktopo.css";
 
 /** organisms**/
 @import "../organisms/nav.css";

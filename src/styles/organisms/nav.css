@@ -1,0 +1,7 @@
+.navigation{
+    grid-area: nav;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    background-color: black;
+}
