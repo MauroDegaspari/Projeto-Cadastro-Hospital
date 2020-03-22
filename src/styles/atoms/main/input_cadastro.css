@@ -1,8 +1,11 @@
 .atom_input_cadastro{
   list-style: none;
   height:40px;
- 
- 
+  
+}
+
+::-webkit-input-placeholder{
+    color:white;
 }
 
 .input0{
@@ -11,6 +14,8 @@
     padding: 10px;
     background-color: gray;
     border: none;
+    color: white;
+    
 
 }
 .input1{
@@ -20,6 +25,7 @@
     margin-left: 20px;
     background-color: gray;
     border: none;
+    color: white;
   
 }
 
@@ -30,6 +36,7 @@
     margin-left: 20px;
     background-color: gray;
     border:none;
+    color: white;
 }
 
 .input3{
@@ -38,5 +45,15 @@
     padding: 10px;
     background-color: gray;
     border: none;
+    color: white;
+    
+}
+.input_senha{
+    width: 30%;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: gray;
+    border: none;
+    color: white;
     
 }
