@@ -9,7 +9,10 @@
 @import "../atoms/main/button.css";
 @import "../atoms/main/input.css";
 @import "../atoms/main/label.css";
+@import "../atoms/main/label_cadastro.css";
+@import "../atoms/main/input_cadastro.css";
 /**molecules**/
+@import "../molecules/cadastro.css";
 @import "../molecules/mainform.css";
 @import "../molecules/molecule_aside.css";
 @import "../molecules/linktopo.css";

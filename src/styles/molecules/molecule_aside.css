@@ -1,7 +1,9 @@
 .molecule_aside{
+    list-style: none;
     width: 100px;
     justify-content: space-between;
     padding: 10px;
+    
 
     
 }

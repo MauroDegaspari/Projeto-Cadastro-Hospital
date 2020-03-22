@@ -1,0 +1,40 @@
+.atom_label_cadastro{
+    list-style: none;
+    font-size: 0.5em;
+    padding:10px;
+    
+    
+}
+.label_cpf{
+
+    font-size: 1.9em;
+    padding:5px;
+    margin-left: 255px;    
+    margin-right:2px;
+}
+.label_bairro{
+
+    font-size: 1.9em;
+    padding:5px;
+    margin-left: 235px;    
+}
+
+.label_cep{
+
+    font-size: 1.9em;
+    padding:5px;
+    margin-left: 180px;    
+}
+.label_uf{
+
+    font-size: 1.9em;
+    padding:5px;
+    margin-left: 175px;    
+}
+
+.label_repetir{
+
+    font-size: 1.9em;
+    padding:5px;
+    margin-left: 160px;    
+}

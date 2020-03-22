@@ -1,0 +1,42 @@
+.atom_input_cadastro{
+  list-style: none;
+  height:40px;
+ 
+ 
+}
+
+.input0{
+    width: 40%;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: gray;
+    border: none;
+
+}
+.input1{
+
+    border-radius: 6px;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: gray;
+    border: none;
+  
+}
+
+.input2{
+    width: 3%;
+    border-radius: 6px;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: gray;
+    border:none;
+}
+
+.input3{
+    width: 30%;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: gray;
+    border: none;
+    
+}
