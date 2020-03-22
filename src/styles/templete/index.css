@@ -3,10 +3,15 @@
 
 
 /**atoms**/
+@import "../atoms/aside/aside_atom-link.css";
 @import "../atoms/nav/imagens.css";
 @import "../atoms/nav/atomlink.css";
-
+@import "../atoms/main/button.css";
+@import "../atoms/main/input.css";
+@import "../atoms/main/label.css";
 /**molecules**/
+@import "../molecules/mainform.css";
+@import "../molecules/molecule_aside.css";
 @import "../molecules/linktopo.css";
 
 /** organisms**/

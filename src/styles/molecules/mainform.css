@@ -1,0 +1,11 @@
+.molecule__mainform{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+
+    border:solid 4px gray;
+    
+  
+    
+}
